@@ -1,5 +1,5 @@
 body{
-    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),('https://search.brave.com/images?q=video+call+images&img=34');
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('https://search.brave.com/images?q=video+call+images&img=34');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
